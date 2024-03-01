@@ -77,7 +77,6 @@ else:
 # Print the result
 if num2 != 0:
     print("Result:", result)
-s
 
 
 
