@@ -2,12 +2,12 @@
 #print(input("Enter first name: ") + " " + input("Enter last name: ") + " " + input("Enter age: "))
 
 # Task 2
-"""fahrenheit = float(input("Enter temperature in fahrenheit: "))
+fahrenheit = float(input("Enter temperature in fahrenheit: "))
 celsius = (fahrenheit - 32) * 5 / 9
-print("Temperature in celsius:", celsius)"""
+print("Temperature in celsius:", celsius)
 
 # Task 3
-"""score = float(input("Enter your score: "))
+score = float(input("Enter your score: "))
 
 if score >= 90:
     grade = 5
@@ -21,10 +21,10 @@ else:
     grade = 1
 
 print("Your grade is:", grade, "; work in class: " + str(round(score * 0.2, 2)), "; test: " + str(round(score * 0.3, 2)), "; project: " +
-      str(score * 0.5) + ".")"""
+      str(score * 0.5) + ".")
 
 # Task 4
-"""number = int(input("Enter a number: "))
+number = int(input("Enter a number: "))
 number2 = int(input("Enter a number: "))
 
 if number % number2 == 0:
@@ -33,11 +33,11 @@ else:
     result = "False " + str(number/number2)
 
 # Print the result
-print(result)"""
+print(result)
 
 # Task 5
 # Define variables
-"""side1 = float(input("Enter the length of side 1: "))
+side1 = float(input("Enter the length of side 1: "))
 side2 = float(input("Enter the length of side 2: "))
 side3 = float(input("Enter the length of side 3: "))
 
@@ -52,7 +52,7 @@ else:
     triangle_type = "Scalene"
 
 # Print the type of triangle
-print("The triangle is:", triangle_type)"""
+print("The triangle is:", triangle_type)
 
 # Task 6
 # Define variables
