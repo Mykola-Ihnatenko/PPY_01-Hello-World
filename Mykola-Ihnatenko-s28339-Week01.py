@@ -1,5 +1,5 @@
 # Task 1
-#print(input("Enter first name: ") + " " + input("Enter last name: ") + " " + input("Enter age: "))
+print(input("Enter first name: ") + " " + input("Enter last name: ") + " " + input("Enter age: "))
 
 # Task 2
 fahrenheit = float(input("Enter temperature in fahrenheit: "))
@@ -77,3 +77,9 @@ else:
 # Print the result
 if num2 != 0:
     print("Result:", result)
+s
+
+
+
+
+#https://github.com/Mykola-Ihnatenko/PPY_01-Hello-World
