@@ -1,4 +1,4 @@
-"""# Task 1
+# Task 1
 #print(input("Enter first name: ") + " " + input("Enter last name: ") + " " + input("Enter age: "))
 
 # Task 2
@@ -33,7 +33,7 @@ else:
     result = "False " + str(number/number2)
 
 # Print the result
-print(result)"""
+print(result)
 
 # Task 5
 # Define variables
@@ -54,7 +54,7 @@ else:
 # Print the type of triangle
 print("The triangle is:", triangle_type)
 
-"""# Task 6
+# Task 6
 # Define variables
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
@@ -76,4 +76,4 @@ else:
 
 # Print the result
 if num2 != 0:
-    print("Result:", result)"""
+    print("Result:", result)
