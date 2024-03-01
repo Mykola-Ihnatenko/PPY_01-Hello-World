@@ -7,9 +7,8 @@ celsius = (fahrenheit - 32) * 5 / 9
 print("Temperature in celsius:", celsius)"""
 
 # Task 3
-score = float(input("Enter your score: "))
+"""score = float(input("Enter your score: "))
 
-# Determine the grade
 if score >= 90:
     grade = 5
 elif score >= 80:
@@ -22,4 +21,16 @@ else:
     grade = 1
 
 print("Your grade is:", grade, "; work in class: " + str(round(score * 0.2, 2)), "; test: " + str(round(score * 0.3, 2)), "; project: " +
-      str(score * 0.5) + ".")
+      str(score * 0.5) + ".")"""
+
+# Task 4
+number = int(input("Enter a number: "))
+number2 = int(input("Enter a number: "))
+
+if number % number2 == 0:
+    result = "True " + str(number/number2)
+else:
+    result = "False " + str(number/number2)
+
+# Print the result
+print(result)
